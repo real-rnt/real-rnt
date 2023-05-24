@@ -4,7 +4,7 @@
 -  Espero contribuir para comunidade e para a humanidade como um todo...
  ***
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RNTyper&theme=transparent&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)                                                         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RNTyper&theme=transparent&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RNTyper&theme=transparent&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
