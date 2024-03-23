@@ -1,7 +1,7 @@
 ## _Salve pessoal_ :)
 
--  Espero contribuir para comunidade e para a humanidade como um todo...
--  Eu curto muito ciência e tecnologia, sempre busco aprender coisas novas...
+-  Espero contribuir para comunidade e para a humanidade.
+-  Eu uso Vim a propósito. 
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rnt-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
