@@ -1,4 +1,4 @@
-## _Salve pessoal_ :)
+## _Saudações_ 
 
 -  Espero contribuir para comunidade e para a humanidade.
 -  Eu uso Vim a propósito. 
