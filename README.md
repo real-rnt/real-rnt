@@ -1,7 +1,6 @@
 ## _Saudações_ 
 
 -  Espero contribuir para comunidade e para a humanidade.
--  Eu uso Vim a propósito. 
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rnt-Vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg">
