@@ -1,6 +1,6 @@
-## _Saudações_ 
+## _Hello everybody, Renato here_ 
 
--  Espero contribuir para comunidade e para a humanidade.
+-  I,m a programmer that code random stuff.
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rnt-Vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg">
