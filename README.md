@@ -1,1 +1,1 @@
- Just a guy with a computer and access to the internet.
+ Just a guy destined to conquer all knowledge of the universe.
