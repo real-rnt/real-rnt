@@ -1,1 +1,1 @@
-Dedication and hardwork.
+Natural = Better
