@@ -1,1 +1,1 @@
-Natural = Better
+Natural == Better
